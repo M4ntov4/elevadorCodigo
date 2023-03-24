@@ -1,0 +1,6 @@
+C:\temp\predio\obj\Debug\predio.csprojAssemblyReference.cache
+C:\temp\predio\bin\Debug\predio.exe.config
+C:\temp\predio\bin\Debug\predio.exe
+C:\temp\predio\bin\Debug\predio.pdb
+C:\temp\predio\obj\Debug\predio.exe
+C:\temp\predio\obj\Debug\predio.pdb
